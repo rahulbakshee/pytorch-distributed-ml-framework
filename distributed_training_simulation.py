@@ -1,6 +1,6 @@
 # PyTorch Distributed Training - Mock Multi-GPU Implementation
 # This notebook demonstrates distributed training concepts using simulation techniques
-# Author: Senior ML Engineer Portfolio Project
+# Author: Rahul Bakshee
 
 import torch
 import torch.nn as nn
